@@ -1,0 +1,46 @@
+Task 1 JavaScript solution :-
+
+*** Atfist if you run JavaScript in any ide you have to install "prompt-sync" lybary for 
+write in your ide console .
+
+program ask you quantity with product name then ask for gift wrap you have to ans in yes or no.
+
+
+program sample output:-
+
+    Product details:
+    Product Name : Product A
+    Product Price : 20
+    Product Quantity : 50
+    total cost: 1000
+    Product Name : Product B
+    Product Price : 40
+    Product Quantity : 40
+    total cost: 1600
+    Product Name : Product C
+    Product Price : 50
+    Product Quantity : 10
+    total cost: 500
+
+    Subtotal: $ 3100
+    Discount applied: tiered_50_discount, Discount Amount -- 850
+    Shipping fee: $ 50
+    Gift wrap fee: $ 40
+    Total: $ 2340
+
+Task 1 Python solution:-
+    just run in your ide Python console 
+    Atfist ask for quantity with product name the ask for gift wrap you have to ans in yes or no.
+
+program sample output:-
+
+    Product details:
+    Product A: 50 units - $1000
+    Product B: 40 units - $1600
+    Product C: 10 units - $500
+
+    Subtotal: $ 3100
+    Discount applied: tiered_50_discount - $ 850.0
+    Shipping fee: $ 50
+    Gift wrap fee: $ 40
+    Total: $ 2340.0
