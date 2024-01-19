@@ -44,3 +44,43 @@ program sample output:-
     Shipping fee: $ 50
     Gift wrap fee: $ 40
     Total: $ 2340.0
+
+
+
+Task 2:-
+
+Why do you like to join as a Software developer?
+=>  I have a good passion for working as a software developer and I believe that my skills and experience align perfectly with the requirements of this role. I love working for real-world problems. I have a great passion for working with innovative new technology to learn and gain knowledge from it. Also, I am a graduate with a B.Tech. degree in the Computer Science Engineering department. That's why I want to become a software developer.
+
+
+
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+=> Whatsapp => It inspire me for its real time conversanal and its greate fetures . 
+                It inspired me to learn from it and bulid like this software.
+=> Github => It inspired me for its greate innovative creation how store all code and its fetures of code 
+            checking functoinality with the previous code store all code in one platform in internet.
+=> Chat gpt => We all know now what is impact of chat gpt . It inspired me to learn and bulid like that 
+                working on that filed and learn AI .
+
+
+List top 3 organisations you like to join in your career & why you like these organisations?
+
+=> Google => we all used google product . They product is very easy to use and simple . when i atfirst go on internet
+            since that time i am used google . After join my college then i interest to join  in google . 
+=> TCS => I heard that work in TCS its like an governtment job . so have interest to join in TCS 
+
+=> Amzone => For work culture and learning technology in ecommerce filed . 
+
+How you position yourself in this industry after 2 years.
+=>  I update myself by learning industry-trending technology and constantly strive to improve my skills and 
+knowledge to stay competitive in the market. This helps me stay relevant and advance my career in the industry.
+
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+=> Talkr :- It is an messaging application that helps communicate each other instantly or real-time.built using 
+        React, a popular JavaScript library for building user interfaces, Tailwind CSS and Socket.IO for real time connnection,
+        in i used mongoDB database.
+    Spotyfi Colne:- It and music system that visually cloned to the Spotify app. It displays songs and featured 
+        playlists using the official Spotify Web API. I was bulid using HTML , CSS and JavaScript .
+
+    Ecommerce:- I am going plan for build for an ecommerce Web site in this year.because form that project i will learn 
+                from technology which i am going to use and real wrold featured challenges problems .
